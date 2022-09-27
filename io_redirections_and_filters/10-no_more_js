@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aR *.js | grep '^-' | rm * 
+ls -aR *.js | grep '^-' | rm 
