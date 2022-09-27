@@ -51,3 +51,5 @@
 			. Based on the the /etc/passwd file
 
 23-empty_casks -> finds all empty files and directories in the current directory and all sub-directories.
+
+24-gifs -> lists all the files with a `.gif` extension in the current directory and all its sub-directories.

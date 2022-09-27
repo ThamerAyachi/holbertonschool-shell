@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -aSR *.gif | tr -d ".gif"
